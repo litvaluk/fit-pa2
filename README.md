@@ -10,6 +10,6 @@
     
     Úkolem je realizovat třídu CPersonalAgenda, která bude implementovat databázi zaměstnanců. Pro usnadnění práce HR oddělení máme realizovanou databázi zaměstnanců. Pro sledované zaměstnance si pa...
     
- - **(2) Evidence zaměstnanců**
+ - **(3) Datum**
  
     Úkolem je realizovat třídu CDate, která bude reprezentovat datum. Třída CDate usnadní práci s datem. Ve vhodné vnitřní reprezentaci si uloží zadaný rok, měsíc a den. Pro uložená data garantuje, ž...
