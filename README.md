@@ -13,3 +13,7 @@
  - **(3) Datum**
  
     Úkolem je realizovat třídu CDate, která bude reprezentovat datum. Třída CDate usnadní práci s datem. Ve vhodné vnitřní reprezentaci si uloží zadaný rok, měsíc a den. Pro uložená data garantuje, ž...
+
+- **(3) Poštovní server**
+
+Úkolem je realizovat třídu CMailServer, která bude simulovat činnost jednoduchého poštovního serveru. Předpokládáme, že server zprostředkovává zasílání e-mailu uvnitř nějaké organizace. Každý e-...
