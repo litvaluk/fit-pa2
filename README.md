@@ -21,3 +21,7 @@
 - **(5) Databáze studentů**
 
     Úkolem je realizovat třídy, které implementují správu studentů na studijním oddělení. Předpokládáme, že na studijním oddělení vedou agendu studentů. Pro jednoduchost je každý student reprezentova...
+
+- **(6) Dostupná místa**
+
+    Úkolem je realizovat šablonu třídy, která dokáže vyhledávat propojená místa. Předpokládáme mapu, ve které se nacházejí místa (uzly) a spojnice mezi uzly (spojení). Pod místem si lze představit mě...
