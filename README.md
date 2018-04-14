@@ -17,3 +17,7 @@
 - **(4) Poštovní server**
 
     Úkolem je realizovat třídu CMailServer, která bude simulovat činnost jednoduchého poštovního serveru. Předpokládáme, že server zprostředkovává zasílání e-mailu uvnitř nějaké organizace. Každý e-...
+
+- **(5) Databáze studentů**
+
+    Úkolem je realizovat třídy, které implementují správu studentů na studijním oddělení. Předpokládáme, že na studijním oddělení vedou agendu studentů. Pro jednoduchost je každý student reprezentova...
