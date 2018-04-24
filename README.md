@@ -25,3 +25,13 @@
 - **(6) Dostupná místa**
 
     Úkolem je realizovat šablonu třídy, která dokáže vyhledávat propojená místa. Předpokládáme mapu, ve které se nacházejí místa (uzly) a spojnice mezi uzly (spojení). Pod místem si lze představit mě...
+
+- **(7a) Dialogové okno I**
+
+    Úkolem je navrhnout a implementovat sadu tříd, které budou simulovat prvky v uživatelském rozhraní. Konkrétně jde o okno (CWindow), tlačítko (CButton), textový vstup (CInput), textový popisek (CL...
+    
+- **(7b) Dialogové okno II**
+
+    Tato úloha je rozšířením jednodušší varianty. Navíc předpokládáme zavedení prvku panel (CPanel), který umožní seskupovat ovládací prvky do skupin a s těmito skupinami pracovat. V základní variant...
+    
+    
